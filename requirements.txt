@@ -1,0 +1,10 @@
+colorama
+python-time
+requests
+asyncio
+ctypes-callable
+httpx
+argparse
+discord-webhook
+selenium
+webdriver-manager

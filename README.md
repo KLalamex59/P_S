@@ -14,6 +14,7 @@ argparse
 discord-webhook
 selenium
 webdriver-manager
+threaded
 ```	
 
 ## CrashFix:
